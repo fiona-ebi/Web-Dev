@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <p><span class="asher">R</span>ivaldo</p>
+    <div class="emma">
+        <p>How are you doing</p>
+        <p>The girls name is Faith</p>
+    </div>
+    <div class="ella">
+        <p>the house looks very beautiful</p>
+        <p>the bridge is falling down</p>
+    </div>
+    <div class="emma">
+        <h1>Abuja</h1>
+        <p>Abuja is a beautiful city</p>
+        <p>it is a really fun place</p>
+        <img src="my images/dog.jpg" width="100">
+    </div>
+    <div id="wil">
+        <p>the girl is running</p>
+        <h3>Rome</h3>
+    </div>
+    <h3 class="faith">Register</h3>
+    <form action="">
+        <input type="text"><br>
+        <input type="number"><br>
+        <input type="submit"><br>
+    </form>
+</body> 
+</html>
