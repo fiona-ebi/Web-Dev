@@ -14,3 +14,19 @@
 .faith{
     text-align: center;
 }
+.josh{
+    width: 100px;
+    margin: auto;
+}
+
+.jay {
+    width: 250px;
+    height: 60px;
+    padding: 15px;
+    border: 10px solid red;
+    margin: 0;
+}
+
+* {
+    /* box-sizing: border-box; */
+}
